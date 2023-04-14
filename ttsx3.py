@@ -1,6 +1,6 @@
 # import pyttsx3
 # friend = pyttsx3.init()
-# friend.say("Ahsan says bristy miss you baby . I love you a lot . I need you")
+# friend.say("hello")
 # # """ RATE"""
 # rate = friend.getProperty('rate')   # getting details of current speaking rate
 # print (rate)                        #printing current voice rate
